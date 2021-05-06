@@ -1,3 +1,3 @@
 # ESN-Awards
-site made using Angular 9  
+Site made using Angular 9  
 https://awards.esn.org
