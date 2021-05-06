@@ -1,2 +1,2 @@
 # ESN-Awards
-awards.esn.org
+https://awards.esn.org
