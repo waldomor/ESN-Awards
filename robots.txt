@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap https://waldomor.github.com/ESN-Awards/sitemap.xml
