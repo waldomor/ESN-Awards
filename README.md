@@ -10,3 +10,6 @@
 <h3 style="font-weight:normal">GitLab repository<br>
 <a id="myBtn" style="{color: #2e3192; background: white} :hover{background: purple}" href="https://git.esn.org/Vladimiro.c.valgiusti/esn-awards-update-final-version">git.esn.org/Vladimiro.c.valgiusti/ESN-awards<a>
 </h3>
+ <h3 style="font-weight:normal">GitLab repository<br>
+<a id="myBtn" style="{color: #2e3192; background: white} :hover{background: purple}" href="https://waldomor.github.io/ESN-Awards/">waldomor.github.io/ESN-Awards/<a>
+</h3>
